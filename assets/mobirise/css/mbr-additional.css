@@ -3115,6 +3115,110 @@ body {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/voor-web-739-2000x1301.jpg");
 }
+.cid-r1t6EeBeFa {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background: #ffffff;
+}
+.cid-r1t6EeBeFa .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+}
+.cid-r1t6EeBeFa .media-container-row .img-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+.cid-r1t6EeBeFa .media-container-row .img-item img {
+  width: 100%;
+  min-height: 1px;
+}
+.cid-r1t6EeBeFa .media-container-row .img-item .img-caption {
+  background: #ffffff;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-r1t6EeBeFa .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-r1t6EeBeFa .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-r1t6EeBeFa .img-item {
+    width: 100% !important;
+  }
+  .cid-r1t6EeBeFa .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+  }
+}
+.cid-r1t6EeBeFa P {
+  color: #767676;
+}
+.cid-r1t7BzmE17 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-r1t7BzmE17 .image-block {
+  margin: auto;
+}
+.cid-r1t7BzmE17 figcaption {
+  position: relative;
+}
+.cid-r1t7BzmE17 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r1t7BzmE17 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-r1t84MlNAn {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-r1t84MlNAn .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r1t8IquVWW {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-r1t8IquVWW .image-block {
+  margin: auto;
+}
+.cid-r1t8IquVWW figcaption {
+  position: relative;
+}
+.cid-r1t8IquVWW figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r1t8IquVWW .image-block {
+    width: 100% !important;
+  }
+}
+.cid-r1t8t0f18L {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-r1t8t0f18L .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-qTfK7kpyZG {
   padding-top: 60px;
   padding-bottom: 0px;
